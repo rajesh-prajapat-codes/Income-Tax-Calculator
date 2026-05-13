@@ -37,9 +37,6 @@ A modern and responsive Income Tax Calculator built using **HTML, CSS, and JavaS
 ├── style.css
 └── script.js
 
-Screenshots
-<img width="927" height="678" alt="image" src="https://github.com/user-attachments/assets/56388ce8-6520-4d59-adf5-807734956d8d" />
-
 
 Add your project screenshot here.
 

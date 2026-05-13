@@ -30,7 +30,7 @@ A modern and responsive Income Tax Calculator built using **HTML, CSS, and JavaS
 ## Project Structure
 ## Live Demo
 
-🚀 [View Live Project]([https://your-netlify-link.netlify.app](https://rajeshprajapatincometcalculator.netlify.app/))
+([https://your-netlify-link.netlify.app](https://rajeshprajapatincometcalculator.netlify.app/))
 
 ```bash
 ├── index.html
